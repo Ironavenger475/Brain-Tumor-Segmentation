@@ -9,7 +9,9 @@ Architecture Diagram
 
 # Results
 <img width="407" alt="Graph1" src="https://github.com/Ironavenger475/Brain-Tumor-Segmentation-Using-Image-processing-/assets/87571494/3207750f-43d6-46d0-b8da-83f6c9a47400">
+
 A graph of the CRTLA, SEResU-Net, and SEU-Net performance improvement rates for the accuracy, sensitivity, precision, and specificity criteria
 
 ![image](https://github.com/Ironavenger475/Brain-Tumor-Segmentation-Using-Image-processing-/assets/87571494/b45db355-36c6-46a7-8ff9-1c1683fac21e)
+
 A Graph based on Comparison based on performance of each method on the testing set of the BraTS 2018 & 2019 dataset
